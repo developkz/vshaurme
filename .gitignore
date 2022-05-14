@@ -8,6 +8,8 @@ __pycache__/
 *.sqlite3
 # Distribution / packaging
 .idea/
+.vscode/
+.DS_Store/
 .Python
 build/
 develop-eggs/
